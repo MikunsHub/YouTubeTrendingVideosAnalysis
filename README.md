@@ -6,6 +6,8 @@
 3. Data modeling using Pandas
 4. Data visualisation using *Matplotlib and Seaborn*
 
+For the Data Cleaning/Wrangling, I was able to use *Regular Expressions* for certain columns i.e the Video Durations
+
 For the Exploratory Data analysis, I asked certain questions before starting the analysis. They were:
 1. How many channels belong to the entertainment,sport or comedy categories
 2. How many views per video categories
